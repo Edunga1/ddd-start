@@ -1,3 +1,4 @@
+use shop;
 truncate table purchase_order;
 truncate table order_line;
 truncate table category;
